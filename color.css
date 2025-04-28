@@ -1,0 +1,28 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-size: cover;
+}
+
+#color-generator {
+  font-size: 22px;
+  width: 200px;
+  height: 100px;
+  border: 5px double black;
+  border-radius: 20px;
+  box-shadow: 0px 11px 6px rgba(0, 0, 0, 0.15);
+}
+#sss {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: orange;
+  background-size: cover;
+  height: 100vh;
+  transition: all 0.5ms;
+}
+
+button {
+  margin-bottom: 40px;
+}
